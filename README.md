@@ -171,6 +171,3 @@ Now that your code is on GitHub:
    streamlit run app.py
    ```
 
----
-
-Would you like me to also generate the `requirements.txt` file content for your chatbot?
