@@ -1,10 +1,3 @@
-Great! Below is a professional and attractive `README.md` file tailored to your **PDF Query Chatbot** project, including how to set it up, how to run it, and how to avoid GitHub large file issues.
-
----
-
-### ✅ `README.md` (copy this into a file named `README.md` in your project root)
-
-````markdown
 # 🤖 PDF Query Chatbot (Offline)
 
 A local AI chatbot that allows users to upload PDFs and ask questions based on the document content. Perfect for querying tenders, reports, contracts, or any official documents using LLM intelligence — all running **offline**.
@@ -24,7 +17,7 @@ A local AI chatbot that allows users to upload PDFs and ask questions based on t
 
 ## 📸 UI Preview
 
-> ![screenshot](docs/demo.png) *(Add your own UI screenshot here)*
+![PDF Query Chatbot UI](docs/screenshot.png)
 
 ---
 
